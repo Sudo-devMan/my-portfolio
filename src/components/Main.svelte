@@ -52,6 +52,7 @@
       <Step step={steps[0]}>A file sharing platform made for long distance, bluetooth-less, file sharing created with <strong class="text-violet-400">React.js + Nest.js, AWS S3 for object storage, and Neon for Postgres database</strong></Step>
       <Step step={steps[1]}>A mathematics study material website for high school students. Made with <strong class="text-violet-400">React.js, Express.js, AWS S3 for object storage, and Neon for Postgres database</strong></Step>
       <Step step={steps[2]}>A website for my school. It also features an administration site created with <strong class="text-violet-400">React.js, BootstrapCSS, Django Rest Framework, Supabase for object storage, and Neon for Postgres database</strong></Step>
+      <Step step={steps[3]}>A rentals website for tenants who are looking for apartments, rooms, business properties, etc. and for landlords to market their rentals as well; created with <strong class="text-violet-400">React.js, TailwindCSS, Django Rest Framework, Supabase for object storage, and Neon for Postgres database</strong></Step>
     </div>
   </section>
 
