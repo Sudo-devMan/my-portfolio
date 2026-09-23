@@ -3,9 +3,10 @@
   import Step from './Step.svelte';
 
   let steps = [
-    {name: "RemShare", icon: "fa-solid fa-share-nodes"},
-    {name: "ExtraPolation", icon: "fa-solid fa-calculator"},
-    {name: "Mamochoko", icon: "fa-solid fa-book"}
+    {name: "RemShare", icon: "fa-solid fa-share-nodes", link: "https://remshare.vercel.app"},
+    {name: "ExtraPolation", icon: "fa-solid fa-calculator", link: "https://extra-polation.vercel.app"},
+    {name: "Mamochoko", icon: "fa-solid fa-book", link: "https://mamochoko.vercel.app"},
+    {name: "DaRentals", icon: "fa-solid fa-house", link: "https://darentals.vercel.app"}
   ]
 
   let benefits = [
